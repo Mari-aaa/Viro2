@@ -6,11 +6,9 @@
 <style type="text/css">
 <link href="bootstrap-4.4.1.css" rel="stylesheet">
 	</style>
-
 </head>
-
+Lena 
 <body>
-	
 </body>
 </html>
 <?php phpinfo(); ?>
